@@ -40,7 +40,7 @@ litellm = "^1.48.6"
 myst-parser = {extras = ["linkify"], version = "^3.0.1"}
 sphinx = "~7.1.2"
 sphinx_rtd_theme = "~2.0.0"
-gitpython = ">=3.1.31"
+gitpython = ">=3.1.49"
 sphinx-copybutton = "^0.5.2"
 
 [tool.poetry.group.dev.dependencies]
